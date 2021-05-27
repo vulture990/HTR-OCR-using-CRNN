@@ -4,7 +4,7 @@
 ### Model Accuracy
 ![](https://github.com/vulture990/OCR-using-CRNN/blob/main/accuracy.jpeg)
 ![](https://github.com/vulture990/OCR-using-CRNN/blob/main/plotgraph.png)
-## The Model was able to spot some characters like this :
+## The Model was able to spot some words like this :
 ![](https://github.com/vulture990/OCR-using-CRNN/blob/main/bound.png)
 
 ![](https://github.com/vulture990/OCR-using-CRNN/blob/main/demonstrations.png)
