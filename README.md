@@ -1,5 +1,5 @@
-# OCR-using-CRNN
-## A school Project for Optical Character Recogniton more oriented to handwritting recongnition done using Convolutional Recurrent Neural Networks(CRNN) using The IAM dataset
+# HTR-using-CRNN
+## A school Project for Optical Character:wORDS Recogniton more oriented to handwritting recongnition done using Convolutional Recurrent Neural Networks(CRNN) using The IAM dataset
 ### I trained the model thanks to GoogleColab reached an accuracy of 99.99% 
 ### Model Accuracy
 ![](https://github.com/vulture990/OCR-using-CRNN/blob/main/accuracy.jpeg)
